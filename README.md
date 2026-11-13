@@ -14,7 +14,7 @@ The game provides a hands-on learning experience where players analyze email con
 - **Progress Tracking:** Complete levels at your own pace and track your progress.
 - **Leaderboard:** Save and view player scores locally in the browser.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Recognize common phishing techniques and warning signs.
 - Identify suspicious sender addresses and lookalike domains.
@@ -23,24 +23,19 @@ The game provides a hands-on learning experience where players analyze email con
 - Avoid relying on a single indicator, such as spelling mistakes, when identifying phishing emails.
 - Develop safer email-handling and cybersecurity awareness habits.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Download or clone this repository.
 2. Open the project folder.
 3. Open `index.html` in a web browser.
 4. Enter your player name and start hunting phishing emails!
 
-## ⚠️ Disclaimer
-
-Phish Hunter is an educational simulation developed for cybersecurity awareness and training purposes. All email scenarios and example domains are fictional. No real phishing emails are sent, and suspicious links are not opened.
-
-*Stay alert. Think before you click. Become a Phish Hunter!*
 
 ## 👩‍💻 Author
 
